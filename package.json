@@ -1,0 +1,22 @@
+{
+  "name": "alchemy_solo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyifan/alchemy_solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyifan/alchemy_solo/issues"
+  },
+  "homepage": "https://github.com/wangyifan/alchemy_solo#readme",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
