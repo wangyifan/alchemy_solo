@@ -1,0 +1,3 @@
+{
+  "/nfts/:contract\\?id=:id": "/status?contract=:contract&id=:id"
+}
